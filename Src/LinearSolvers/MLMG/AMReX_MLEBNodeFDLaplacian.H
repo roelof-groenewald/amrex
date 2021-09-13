@@ -137,7 +137,6 @@ MLEBNodeFDLaplacian::setEBDirichlet (F&& f)
             }
         }
     }
-    return Real(0.);
 }
 
 }
